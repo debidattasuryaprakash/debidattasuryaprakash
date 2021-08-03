@@ -17,11 +17,15 @@
 </p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/photo/code.gif"><img align="right" src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/photo/code.gif" width="230" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width:100%;"></a></p>
 <p>
-- 🌱 I’m currently learning node js.
-- 👯 I’m looking to collaborate on web dev projects.
-- 💬 Ask me about anything.
-- 😄 Pronouns: he, him, his.
-- ⚡ Fun fact: never satisfied with my learning.
+ <ul>
+   
+<li>- 🌱 I’m currently learning node js.</li>
+<li>- 👯 I’m looking to collaborate on web dev projects.</li>
+<li>- 💬 Ask me about anything.</li>
+<li>- 😄 Pronouns: he, him, his.</li>
+<li>- ⚡ Fun fact: never satisfied with my learning.</li>
+  
+   </ul>
 </p>
 <h2>👨‍💻Languages and Tools</h2>
 <div align="center">
