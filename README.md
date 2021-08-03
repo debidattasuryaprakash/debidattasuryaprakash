@@ -10,14 +10,16 @@
 
 <p>20-years old Web Developer in learning phase of this gigantic version of virtual world&#128516. I am new into backend development and had some prior knowledge about C++ and interested in open source contribution and multistaged hackathons😅. Open for verson control collabarative projects and full stack development projects🤗. 
 
+<p>
+<img src="https://img.shields.io/badge/age-20-blue" alt="age" data-canonical-src="https://img.shields.io/badge/age-20-blue" style="max-width:100%;">
+<img src="https://img.shields.io/badge/focus-WebDev-brightgreen" alt="focus" data-canonical-src="https://img.shields.io/badge/focus-WebDev-brightgreen" style="max-width:100%;">
+<img src="https://img.shields.io/badge/skill-Learning-red" alt="skill" data-canonical-src="https://img.shields.io/badge/skill-Learning-red" style="max-width:100%;">
+</p>
+
 - 🌱 I’m currently learning node js.
 - 👯 I’m looking to collaborate on web dev projects.
 - 💬 Ask me about anything.
 - 😄 Pronouns: he, him, his.
 - ⚡ Fun fact: never satisfied with my learning.
 
-<p>
-<img src="https://img.shields.io/badge/age-20-blue" alt="age" data-canonical-src="https://img.shields.io/badge/age-20-blue" style="max-width:100%;">
-<img src="https://img.shields.io/badge/focus-WebDev-brightgreen" alt="focus" data-canonical-src="https://img.shields.io/badge/focus-WebDev-brightgreen" style="max-width:100%;">
-<img src="https://img.shields.io/badge/skill-Learning-red" alt="skill" data-canonical-src="https://img.shields.io/badge/skill-Learning-red" style="max-width:100%;">
-</p>
+
