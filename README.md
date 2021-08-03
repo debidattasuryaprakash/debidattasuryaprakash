@@ -2,7 +2,6 @@
 
 Here are some ideas to get you started:
 
--  I’m currently working on skill development
 - 🌱 I’m currently learning node js
 - 👯 I’m looking to collaborate on web dev projects
 - 🤔 I’m looking for help with new insights into web dev community
