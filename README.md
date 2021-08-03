@@ -22,7 +22,7 @@
 - 😄 Pronouns: he, him, his.
 - ⚡ Fun fact: never satisfied with my learning.
 
-👨‍💻<h2>Languages</h2>
+👨‍💻<h2>Languages and Tools</h2>
 <div align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true"><img src="https://github.com/Subhampreet/Subhampreet/raw/master/logos/c++.png?raw=true" height="60" width="60" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true"><img src="https://github.com/Subhampreet/Subhampreet/raw/master/logos/JS.png?raw=true" height="60" width="60" style="max-width:100%;"></a>
