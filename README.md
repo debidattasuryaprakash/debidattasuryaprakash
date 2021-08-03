@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**debidattasuryaprakash/debidattasuryaprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I am Debidatta Surya Prakash 👋
 
 Here are some ideas to get you started:
 
@@ -12,5 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: through my socials
 - 😄 Pronouns: he, him, his
-- ⚡ Fun fact: never satisfied with my learning
--->
+- ⚡ Fun fact: never satisfied with my learning.
