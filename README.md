@@ -8,7 +8,7 @@
 
 <h2  align="center">I'm a novice Web Developer from India</h2>
 
-<p>20-years old Web Developer in learning phase of this gigantic version of virtual world &#128516. I am new into backend development and had some prior knowledge about C++ and interested in open source contribution and multistaged hackathons 😅.	 
+<p>20-years old Web Developer in learning phase of this gigantic version of virtual world&#128516. I am new into backend development and had some prior knowledge about C++ and interested in open source contribution and multistaged hackathons😅. Open for verson control collabarative projects and full stack development projects🤗. 
 
 - 🌱 I’m currently learning node js.
 - 👯 I’m looking to collaborate on web dev projects.
