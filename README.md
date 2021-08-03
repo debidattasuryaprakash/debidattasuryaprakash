@@ -16,13 +16,14 @@
 <img src="https://img.shields.io/badge/skill-Learning-red" alt="skill" data-canonical-src="https://img.shields.io/badge/skill-Learning-red" style="max-width:100%;">
 </p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/photo/code.gif"><img align="right" src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/photo/code.gif" width="230" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width:100%;"></a></p>
+<p>
 - 🌱 I’m currently learning node js.
 - 👯 I’m looking to collaborate on web dev projects.
 - 💬 Ask me about anything.
 - 😄 Pronouns: he, him, his.
 - ⚡ Fun fact: never satisfied with my learning.
-
-👨‍💻<h2>Languages and Tools</h2>
+</p>
+<h2>👨‍💻Languages and Tools</h2>
 <div align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true"><img src="https://github.com/Subhampreet/Subhampreet/raw/master/logos/c++.png?raw=true" height="60" width="60" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true"><img src="https://github.com/Subhampreet/Subhampreet/raw/master/logos/JS.png?raw=true" height="60" width="60" style="max-width:100%;"></a>
