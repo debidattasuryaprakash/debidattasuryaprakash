@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/focus-WebDev-brightgreen" alt="focus" data-canonical-src="https://img.shields.io/badge/focus-WebDev-brightgreen" style="max-width:100%;">
 <img src="https://img.shields.io/badge/skill-Learning-red" alt="skill" data-canonical-src="https://img.shields.io/badge/skill-Learning-red" style="max-width:100%;">
 </p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/photo/code.gif"><img align="right" src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/photo/code.gif" width="300" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width:200%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/photo/code.gif"><img align="right" src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/photo/code.gif" width="400" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width:300%;"></a></p>
 <p>
  <ul>
    
