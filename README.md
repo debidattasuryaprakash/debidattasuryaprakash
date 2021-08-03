@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/badge/age-20-blue" alt="age" data-canonical-src="https://img.shields.io/badge/age-20-blue" style="max-width:100%;">
 <img src="https://img.shields.io/badge/focus-WebDev-brightgreen" alt="focus" data-canonical-src="https://img.shields.io/badge/focus-WebDev-brightgreen" style="max-width:100%;">
-<img src="https://img.shields.io/badge/skill-Learning-brightgreen" alt="skill" data-canonical-src="https://img.shields.io/badge/skill-Learning-brightgreen" style="max-width:100%;">
+<img src="https://img.shields.io/badge/skill-Learning-red" alt="skill" data-canonical-src="https://img.shields.io/badge/skill-Learning-red" style="max-width:100%;">
 </p>
