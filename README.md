@@ -8,7 +8,7 @@
 
 <h2  align="center">I'm a novice Web Developer from India</h2>
 
-Here are some ideas to get you started:
+<p>20-years old Web Developer in learning phase of this gigantic version of virtual world #128516.
 
 - 🌱 I’m currently learning node js.
 - 👯 I’m looking to collaborate on web dev projects.
