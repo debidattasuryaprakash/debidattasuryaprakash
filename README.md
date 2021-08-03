@@ -1,4 +1,4 @@
-### Hi there, I am Debidatta Surya Prakash 👋
+### Hi there, I am Debidatta Surya Prakash �<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">
 
 Here are some ideas to get you started:
 
