@@ -30,17 +30,27 @@
 <h2>👨‍💻Languages and Tools</h2>
 <div align="left">
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/c%2B%2B.png"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/c%2B%2B.png" height="60" width="60" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true"><img src="https://github.com/Subhampreet/Subhampreet/raw/master/logos/JS.png?raw=true" height="60" width="60" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/aac945beac14dc731dc0499a530a41c7b76addcae3adbeeae28b5dc3add9a3a0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6e6f64652d6a732d313137343932352e706e67"><img src="https://camo.githubusercontent.com/aac945beac14dc731dc0499a530a41c7b76addcae3adbeeae28b5dc3add9a3a0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6e6f64652d6a732d313137343932352e706e67" height="60" width="60" data-canonical-src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true"><img src="https://github.com/Subhampreet/Subhampreet/raw/master/logos/css.png?raw=true" height="60" width="60" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true"><img src="https://github.com/Subhampreet/Subhampreet/raw/master/logos/html.png?raw=true" height="60" width="60" style="max-width:100%;"></a>
+ 
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/JS.png"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/JS.png" height="60" width="60" style="max-width:100%;"></a>
+ 
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/node.jpeg"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/node.jpeg" height="60" width="60" data-canonical-src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/node.jpeg" style="max-width:100%;"></a>
+ 
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/css.png"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/css.png" height="60" width="60" style="max-width:100%;"></a>
+ 
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/html.png"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/html.png" height="60" width="60" style="max-width:100%;"></a>
+ 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c10bbec541caa795eee7a0ada0415e2fe7c04b4f89aaa8ebc76e1d1ac2ede1d6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d6f6e676f64622e706e67"><img src="https://camo.githubusercontent.com/c10bbec541caa795eee7a0ada0415e2fe7c04b4f89aaa8ebc76e1d1ac2ede1d6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d6f6e676f64622e706e67" height="60" width="60" data-canonical-src="https://img.icons8.com/color/452/mongodb.png" style="max-width:100%;"></a>
+ 
 <br>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Subhampreet/Subhampreet/blob/master/logos/php.png?raw=true"><img src="https://github.com/Subhampreet/Subhampreet/raw/master/logos/php.png?raw=true" height="60" width="60" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true"><img src="https://github.com/Subhampreet/Subhampreet/raw/master/logos/sql.png?raw=true" height="60" width="60" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true"><img src="https://github.com/Subhampreet/Subhampreet/raw/master/logos/git.png?raw=true" height="60" width="60" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true"><img src="https://github.com/Subhampreet/Subhampreet/raw/master/logos/vs.png?raw=true" height="60" width="60" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true"><img src="https://github.com/Subhampreet/Subhampreet/raw/master/logos/bootstrap.png?raw=true" height="60" width="60" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/php.png"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/php.png" height="60" width="60" style="max-width:100%;"></a>
+ 
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/sql.png"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/sql.png" height="60" width="60" style="max-width:100%;"></a>
+ 
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/git.png"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/git.png" height="60" width="60" style="max-width:100%;"></a>
+ 
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/vs.png"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/vs.png" height="60" width="60" style="max-width:100%;"></a>
+ 
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/bootstrap.png"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/bootstrap.png" height="60" width="60" style="max-width:100%;"></a>
 </div>
 
 <div align="left">
