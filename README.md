@@ -30,9 +30,7 @@
 <h2>👨‍💻Languages and Tools</h2>
 <div align="left">
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/c%2B%2B.png"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/c%2B%2B.png" height="60" width="60" style="max-width:100%;"></a>
- 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/JS.png"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/JS.png" height="60" width="60" style="max-width:100%;"></a>
- 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/node.jpeg"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/node.jpeg" height="60" width="60" data-canonical-src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/node.jpeg" style="max-width:100%;"></a>
  
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/css.png"><img src="https://raw.githubusercontent.com/debidattasuryaprakash/debidattasuryaprakash/main/logos/css.png" height="60" width="60" style="max-width:100%;"></a>
