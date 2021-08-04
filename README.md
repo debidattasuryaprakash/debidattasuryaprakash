@@ -52,4 +52,4 @@
 
 <p><a href="https://dev.to/subhampreet" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/1f3c6413af566c3bdc34d592cb5f299bf014242798daf4854b3c531ad522b904/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667" data-canonical-src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" style="max-width:100%;"></a></p>
 </div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debidattasuryaprakash&theme=flag-india)](https://git.io/streak-stats" width="45%" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=debidattasuryaprakash&theme=dark" style="max-width:100%;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debidattasuryaprakash&theme=flag-india)](https://git.io/streak-stats" width="45%" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=debidattasuryaprakash&theme=flag-india" style="max-width:100%;">
