@@ -52,4 +52,5 @@
 
 <p><a href="https://dev.to/subhampreet" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/1f3c6413af566c3bdc34d592cb5f299bf014242798daf4854b3c531ad522b904/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667" data-canonical-src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" style="max-width:100%;"></a></p>
 </div>
+<img src="https://camo.githubusercontent.com/814b065200beda95a0c3e158b8b31cadddcea863994584eef67e123057bed766/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d53756268616d7072656574267468656d653d6461726b" width="45%" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=debidattasuryaprakash&theme=dark" style="max-width:100%;">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debidattasuryaprakash&theme=dark)](https://git.io/streak-stats)
